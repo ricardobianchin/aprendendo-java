@@ -1,0 +1,10 @@
+body {
+    background-image: url('../img/cafe-graos-compr.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#section-princ{
+    color: aqua;
+}
