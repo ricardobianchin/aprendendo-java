@@ -1,0 +1,127 @@
+no inicio pode importar repo
+pode crair do zero clicando no +
+ou open para abrir
+
+no incio pode escolher thema etamanho
+
+pode escolher plugins
+new projetc 
+pode indicar se vai usar kotlin et
+
+pode eescolher crate projetc from template
+
+proj name
+proj location
+
+clica no finish e pode ate criar a pasta do novo proj por mim
+
+barra inferior mostra o status
+
+painel esquerdo mostr o projeto
+
+nao em perspective
+
+na pasta src, alt+ins, cria novo package
+dentro do pak pode crar novo class
+
+file setins
+editor font
+
+comeca a dig ele mostra o intelisencse
+enter
+
+main
+sout = system out
+
+add configuratios pra convifurar o run
+ctrl-shift+f10
+shift+f10 exsecuta direto
+
+alt+ins, insere construtcor, getter setter
+
+criea equala e hashCode
+
+ctrl+shift+/ comentea
+
+ctrl++/ comentea so a linha
+
+importar pack alt+enter no sublicnado vermelho
+
+grayed import nao esta utils
+cotrl+alt+o exluci linha do import
+
+shift+f10 executa
+
+ctrl+y apaga li9nha inteira
+
+refatorar, 
+shifit f6 nenomear programa
+
+so o ed texto shift+f12
+
+formatar cod=ctrl+alt+l
+
+dupl lin ctrl+d
+ctrl+shift seta vert move a linha
+
+consultar basef.com.br
+jetbrains disponibiliza pdf com todos os atalhos
+
+git
+vcs, enable version contro integration, responde a janela e ok e ele cria
+
+menu vcs, comandos domo commit
+commit ctlr+k
+na esquerda ve a lista de arquivos e pode comentar o comit
+
+abaixo tem botoes commit and push
+
+no paiel esquer, project
+digitou classe livro no editor
+crio metodo construcor e getter e setters
+
+ao colocar paremtros ele vai indicando em fonte pequena o nome de cada parametro
+
+
+psvm criar main
+
+ctrl+d duplica liha ou linhas selecionadas
+
+ctrll+alt+p cria vari soma na esquerda
+ctrl+alt+v?
+
+project structure pode instalar jdk de outra versao
+
+ctrl+f4 fecha aba
+
+buscar classe ctrl+N abre caixa de cosulta no topo, digita e localiza identificador e abre o arquivo
+
+ctrl+b vai para definicao
+
+
+
+plugins
+fecha projeto
+na tela do welcome, plugins
+
+ou 
+file, settings
+encontra item plugin
+ex plug
+raigon brackets
+[] coloridos
+
+ex plug
+nyan progress bar
+barras de andamento coloridas
+
+git tool box
+mostra mais campos de info dos commits direto no font com cor tenue
+
+key promoter x
+mostra atalhos num pop inf dir
+
+one dark theme é tema escuro bem coloirdo
+
+
+

@@ -1,0 +1,135 @@
+# Eclipse
+
+## perpectiva
+
+é a forma como as janelas são organizadas
+ctrl+3
+
+perpectiva git, debug, jre, jee, junit, java
+
+## criar novo projeto
+ctrl N
+file, new, java project
+
+indicar caminho do package
+
+na esquerda aparece a estrutura do packaje
+pode ali criar nova classe
+
+ctrl+N
+permite criar novo projeto, nova classe...
+
+ao criar nova clase pode indicar se terá main
+
+
+para criar main pode apenas digitar main, ctrl+espaco e escolhe qual main deseja
+
+sysout seguido de ctrl+espaco e pode criar o system.out
+
+salvar
+ctrl+s
+run as, java application ja salva. e permite chaixa de checkagem que indica que salvará sempre automaticamente antes de salvar
+
+run as alt+shift+x, j
+
+windows, preferences, apperancem, theme
+windows, preferences, apperancem, colors and fonts
+
+ctrl+- e ctrl+= aumenta e dim tam fonte
+
+quando muda ok programa tb pergunta se deseja ajustar as referncias no fonte
+
+mudar nome do programa ou package é f2 ou refactor, rename
+
+ctrl+m oculta painel a esquerda
+
+criar construtocr
+source, generate constructor by fields ou by superclass
+
+source, generate getters and setters
+
+ctrl+3=source, generat. equals 
+
+alt+setas verticais move linha ou selecao de linhas
+
+formatar fonte chtrl+shift+f
+
+Gato Gato = new Gato();
+mostoru linha fina sublinahdo pois precisa importar
+ctrl+shift+o importa o package de onde está o cursor
+
+ja o class Livros foi criado no mesmo aquivo mais abaixo da classe principal. por isso nao precisou importar package nem exigiu que a classe estivesse acima
+
+
+printf exime ender de memoria do objeto. mas se criou o toString, ai mostra o resutlado dele
+ou pode fazer printf objeto.toString
+
+git 
+
+pode ligar a perspectiva git
+
+crie no github novo repo
+
+no painel de projetos a esquerda
+botao da direita, team, share project...
+
+abre a janela de config repo
+
+botao da direita, team, commit
+
+tem botao commit and push
+
+na hora do push colar o uri
+
+debug
+
+pra crair novo programa pode ir no painel da esquerda, src, ctrl+n, cria package, calculadora
+indica nele que terá main
+
+ai vai criar metodos fora do main
+
+public static int soma(int a, b){return a+b;}
+
+duplicar linha ctrl+alt+seta acima, duplica para cima
+duplicar linha ctrl+alt+seta abaixo, duplica para baixo
+
+cria dai os metodos divicao, multiplicacao...
+
+Scanner scan =  new Scanner(System.in);
+
+sisout digite o prim valor
+a = scan.nextInt();
+
+sisout digite o prim valor
+b = scan.nextInt();
+
+vai chamar 
+soma(a,b)
+precisa colocar numa variavel
+posiciona o cursor, ctrl+1 assign to new e cria uma variavel, torna
+
+int soma = soma(a,b);
+ctrl+2,L ja cria tb
+
+run as roda sem debug
+
+inserir brakgpoint
+clica da barra fina azul e surge um ponto, indicando q inseriu o bp
+
+f5 entrea f6 passa por cima
+
+ctrl+shift+t localiza definicao
+
+ctrl+w fecha aba
+ctrl+shift+w fecha todas aba
+
+importar projeto q ja existe
+clica em import no painel esquerdo
+entontra a pasta onde possui o projeto
+
+painel esquerdo, 
+botao dir
+java build path
+pode indicar qual jdk será usado
+
+ctrl+shift+c comentea
